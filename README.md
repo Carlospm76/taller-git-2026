@@ -35,7 +35,7 @@ sudo apt-get install git
 
 #### Windows
 
-Descargar desde la web oficial: [http://git-scm.com/downloads](https://git-scm.com/install/).
+Descargar desde la web oficial: [http://git-scm.com/install](https://git-scm.com/install/).
 
 ### Configuración de `git`
 
